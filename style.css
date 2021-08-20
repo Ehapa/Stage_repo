@@ -1,0 +1,69 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#container {
+    background-color: beige;
+}
+
+.picture1 {
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.picture {
+float: right;
+margin-top: 24px;
+margin-right: 24px;
+}
+
+.clear {
+    clear: both;
+}
+
+.headername {
+    text-align: center;
+}
+
+.stack {
+    text-align: center;
+    font-weight: lighter;
+}
+.Personal {
+    height: 200px;
+    padding-top: 24px;
+    background-color: rgb(245, 245, 202);
+    margin-bottom: 50px;
+
+}
+
+.move {
+    padding-top: 24px;
+    display: contents;
+    padding-top:-100px;
+}
+
+.he{
+    padding-top:-100px;
+}
+.contact {
+    padding-top: 24px;
+    background-color: rgb(245, 245, 202);
+    margin-bottom: 50px;
+}
+.skill {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    background-color: rgb(245, 245, 202);
+    /* float: right; */
+    margin-bottom: 50px;
+}
+.tools {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    background-color: rgb(245, 245, 202);
+}
